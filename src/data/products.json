@@ -1,0 +1,12 @@
+{
+    "sofas": [
+      {
+        "id": 1,
+        "image": "sofas/sofa1.png",
+        "title": "sofa",
+        "price": 1210.23,
+        "freeShipping": true
+      }
+    ]
+  }
+  
